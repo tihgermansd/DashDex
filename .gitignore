@@ -1,0 +1,11 @@
+cache/
+out/
+test_on_kovan_alchemy.sh
+
+.env
+
+node_modules
+
+broadcast/LemmaSwapDeployTestnet.sol/69
+
+deployment-data.log 
